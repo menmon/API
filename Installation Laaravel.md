@@ -1,4 +1,4 @@
-#**Instalasi Laravel Win 10**#
+<h1>**Instalasi Laravel Win 10**<\h1>
 
 ##**Set up**##
 **1. Install XAMPP**
