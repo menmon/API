@@ -1,10 +1,10 @@
-<h1>**Instalasi Laravel Win 10**<\h1>
+<h1>**Instalasi Laravel Win 10**</h1>
 
-##**Set up**##
+<h2>**Set up**</h2>
 **1. Install XAMPP**
 **2. Install Composer**
 
-##**Membuat File Laravel**##
+<h3>**Membuat File Laravel**</h3>
 1. Buka file htdocs XAMPP menggunakan command prompt.
 
 2. Masukkan command seperti ini <blockquote>composer create-project --prefer-dist laravel/laravel nama_projectmu</blockquote> nama file bisa diubah pada command <blockquote>nama_projectmu</blockquote>
