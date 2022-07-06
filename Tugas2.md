@@ -1,13 +1,16 @@
 <h1>**Tugas 2**</h1>
 <h2>**SIAPKAN FILE**</h2>
-<h3>**Membuat file RssController.php, RssModels.php dan NewsController.php, NewsModels.php**</h3>
-<h4>**File Models**</h4>
+<h3>**Membuat File Models**</h3>
 <blockquote>php artisan make:model Rss</blockquote>
 <blockquote>php artisan make:model News</blockquote>
 
-<h4>**File Controller**</h4>
+<h3>**Membuat File Controller**</h3>
 <blockquote>php artisan make:controller RssController</blockquote>
 <blockquote>php artisan make:controller NewsController</blockquote>
+
+<h3>**Membuat File database/seeders**</h3>
+<blockquote>php artisan make:migration RssSeeder</blockquote>
+Class untuk memasukkan feed xml file ke db dari suatu web
 
 <h2>**KONFIGURASI FILE**</h2>
 
