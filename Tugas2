@@ -1,19 +1,20 @@
-<h2>SIAPKAN FILE</h2>
-<h3>Membuat file RssController.php, RssModels.php dan NewsController.php, NewsModels.php</h3>
-<h4>File Models</h4>
+<h1>**Tugas 2**</h1>
+<h2>**SIAPKAN FILE**</h2>
+<h3>**Membuat file RssController.php, RssModels.php dan NewsController.php, NewsModels.php**</h3>
+<h4>**File Models**</h4>
 <blockquote>php artisan make:model Rss</blockquote>
 <blockquote>php artisan make:model News</blockquote>
 
-<h4>File Controller</h4>
+<h4>**File Controller**</h4>
 <blockquote>php artisan make:controller RssController</blockquote>
 <blockquote>php artisan make:controller NewsController</blockquote>
 
-<h2>KONFIGURASI FILE</h2>
+<h2>**KONFIGURASI FILE**</h2>
 
-<h3>EDIT FILE .env</h3>
+<h3>**EDIT FILE .env**</h3>
 Buat DB lalu sesuaikan nama DB dan masukkan script <blockquote>DB_FOREIGN_KEYS=true</blockquote> jika ingin membuat foreign key.
 ![Capture](https://user-images.githubusercontent.com/51281505/177587476-586da607-97ea-43f2-8d51-87fb65102008.PNG)
 
 
 
-<h2>LAUNCH FILE</h2>
+<h2>**LAUNCH FILE**</h2>
