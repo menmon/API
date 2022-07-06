@@ -12,8 +12,10 @@
 <h2>**KONFIGURASI FILE**</h2>
 
 <h3>**EDIT FILE .env**</h3>
-Buat DB lalu sesuaikan nama DB dan masukkan script <blockquote>DB_FOREIGN_KEYS=true</blockquote> jika ingin membuat foreign key.
-![Capture](https://user-images.githubusercontent.com/51281505/177587476-586da607-97ea-43f2-8d51-87fb65102008.PNG)
+Buat DB lalu sesuaikan nama DB 
+masukkan script <blockquote>DB_FOREIGN_KEYS=true</blockquote> jika ingin membuat foreign key.
+![Capture](https://user-images.githubusercontent.com/51281505/177594536-ce215a91-851f-4d3f-bc7e-997bb0823a34.PNG)
+
 
 
 
