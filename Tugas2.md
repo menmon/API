@@ -13,7 +13,8 @@
 
 <h3>**EDIT FILE .env**</h3>
 Buat DB lalu sesuaikan nama DB 
-masukkan script <blockquote>DB_FOREIGN_KEYS=true</blockquote> jika ingin membuat foreign key.
+Jika ingin membuat foreign key masukkan script
+<blockquote>DB_FOREIGN_KEYS=true</blockquote> 
 ![Capture](https://user-images.githubusercontent.com/51281505/177594536-ce215a91-851f-4d3f-bc7e-997bb0823a34.PNG)
 
 
