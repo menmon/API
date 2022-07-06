@@ -20,6 +20,8 @@ Jika ingin membuat foreign key masukkan script
 <blockquote>DB_FOREIGN_KEYS=true</blockquote> 
 ![Capture](https://user-images.githubusercontent.com/51281505/177594536-ce215a91-851f-4d3f-bc7e-997bb0823a34.PNG)
 
+<h3>**SEEDING**</h3>
+Seeding adalah membuat table db dengan perintah sql x php
 
 
 
