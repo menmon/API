@@ -13,6 +13,7 @@
 Class untuk memasukkan feed xml file ke db dari suatu web
 
 <h3>**Membuat File Seeders**</h3>
+<blockquote>php artisan make:seeder RssSeeder</blockquote>
 
 <h2>**KONFIGURASI FILE**</h2>
 
