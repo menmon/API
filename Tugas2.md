@@ -8,9 +8,11 @@
 <blockquote>php artisan make:controller RssController</blockquote>
 <blockquote>php artisan make:controller NewsController</blockquote>
 
-<h3>**Membuat File database/seeders**</h3>
-<blockquote>php artisan make:migration RssSeeder</blockquote>
+<h3>**Membuat File Migration**</h3>
+<blockquote>php artisan make:migration create_rss_table</blockquote>
 Class untuk memasukkan feed xml file ke db dari suatu web
+
+<h3>**Membuat File Seeders**</h3>
 
 <h2>**KONFIGURASI FILE**</h2>
 
