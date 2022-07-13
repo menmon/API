@@ -8,6 +8,8 @@
 1. Buka file htdocs XAMPP menggunakan command prompt.
 
 2. Masukkan command seperti ini <blockquote>composer create-project --prefer-dist laravel/laravel nama_projectmu</blockquote> nama file bisa diubah pada command <blockquote>nama_projectmu</blockquote>
+<blockquote>composer install</blockquote>
+
 ![Capture](https://user-images.githubusercontent.com/51281505/172200568-25a5d223-577c-491c-abdc-d51f92fe1df6.PNG)
 
 3. Untuk memulainya masukkan command <blockquote>php artisan serve</blockquote>.
