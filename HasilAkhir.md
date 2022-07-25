@@ -1,6 +1,6 @@
 # API
 <h1>**Section Mix Rss**</h1>
-![campuran](https://user-images.githubusercontent.com/51281505/180806394-7fc0fe57-85c0-446f-9647-5dc3df9e8e3c.PNG)
+![campuran]https://user-images.githubusercontent.com/51281505/180806394-7fc0fe57-85c0-446f-9647-5dc3df9e8e3c.PNG
 
 
 
